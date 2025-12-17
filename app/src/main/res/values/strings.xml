@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TikUTE</string>
+    <string name="video_shorts">Video Shorts</string>
+    <string name="current_short">Current short</string>
+    <string name="user_placeholder_email">user@example.com</string>
+    <string name="total_videos">Total Videos:</string>
+</resources>
